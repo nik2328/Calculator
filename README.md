@@ -32,7 +32,8 @@ This project is a simple web-based calculator built using HTML, CSS, and JavaScr
 2. Convert the provided image `Blackvariant-Shadow135-System-Calculator.512.png` to a favicon (e.g., `favicon.ico`) using an online converter.
 3. Place the `favicon.ico` file in the project directory.
 
-##Running the Calculator
+## Running the Calculator
+
 1. Open the Project Directory
 Ensure all files (index.html, styles.css, script.js, favicon.ico) are in the project directory.
 2. Open the HTML File
